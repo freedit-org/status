@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 191,
-    "timeWeek": 305,
-    "timeMonth": 352,
-    "timeYear": 340,
+    "time": 341,
+    "timeDay": 454,
+    "timeWeek": 335,
+    "timeMonth": 332,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.freedit.eu.ico",
     "slug": "libreddit",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 948,
-    "timeDay": 695,
-    "timeWeek": 844,
-    "timeMonth": 913,
-    "timeYear": 948,
+    "uptimeYear": "99.86%",
+    "time": 946,
+    "timeDay": 848,
+    "timeWeek": 825,
+    "timeMonth": 911,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2022-10-30": 151
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 114,
-    "timeWeek": 195,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 215,
+    "timeDay": 362,
+    "timeWeek": 230,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   }
 ]
