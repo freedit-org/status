@@ -4,19 +4,19 @@
     "url": "https://freedit.eu",
     "icon": "https://icons.duckduckgo.com/ip3/freedit.eu.ico",
     "slug": "freedit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 459,
-    "timeWeek": 359,
-    "timeMonth": 340,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.86%",
+    "time": 345,
+    "timeDay": 483,
+    "timeWeek": 377,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-01-03": 0
+      "2023-01-03": 163
     }
   },
   {
