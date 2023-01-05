@@ -10,11 +10,11 @@
     "uptimeWeek": "98.38%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.86%",
-    "time": 350,
-    "timeDay": 579,
-    "timeWeek": 431,
-    "timeMonth": 355,
-    "timeYear": 350,
+    "time": 352,
+    "timeDay": 553,
+    "timeWeek": 442,
+    "timeMonth": 360,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2023-01-03": 163
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 946,
-    "timeDay": 955,
-    "timeWeek": 945,
-    "timeMonth": 931,
-    "timeYear": 946,
+    "time": 944,
+    "timeDay": 851,
+    "timeWeek": 920,
+    "timeMonth": 925,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2022-10-30": 151
     }
@@ -50,11 +50,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 351,
-    "timeWeek": 283,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 246,
+    "timeDay": 342,
+    "timeWeek": 288,
+    "timeMonth": 246,
+    "timeYear": 246,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Nitter",
+    "url": "https://nitter.freedit.eu/NASA",
+    "icon": "https://icons.duckduckgo.com/ip3/nitter.freedit.eu.ico",
+    "slug": "nitter",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 621,
+    "timeDay": 621,
+    "timeWeek": 621,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   }
 ]
