@@ -9,6 +9,8 @@ sites:
     url: https://libreddit.freedit.eu
   - name: zlib search
     url: https://zlib.freedit.eu
+  - name: Nitter
+    url: https://nitter.freedit.eu/NASA
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
