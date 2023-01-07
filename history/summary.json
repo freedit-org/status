@@ -44,18 +44,20 @@
     "url": "https://zlib.freedit.eu",
     "icon": "https://icons.duckduckgo.com/ip3/zlib.freedit.eu.ico",
     "slug": "zlib-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 355,
-    "timeWeek": 290,
-    "timeMonth": 248,
-    "timeYear": 248,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 276,
+    "timeWeek": 282,
+    "timeMonth": 246,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2023-01-07": 0
+    }
   },
   {
     "name": "Nitter",
